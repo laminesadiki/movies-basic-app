@@ -1,0 +1,6 @@
+.home__section {
+    display: flex;
+    margin-top: 40px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
